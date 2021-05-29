@@ -65,9 +65,8 @@
 }
 
 @media screen and (max-width: 500px){
-    .presencacion-img{
-        width: 130px;
-        height: 130px;
+    .presentacion-contanedor{
+        width: 90%;
     }
 
     .about{
